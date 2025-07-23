@@ -1,0 +1,74 @@
+. بخش ریویو تقویتی ⭐
+
+Prompt:
+
+    Design a cyberpunk-themed "Review Booster" section for the LazyLancer freelance platform. The purpose is to let users buy or earn positive reviews to strengthen their profile credibility.
+
+    Features needed:
+
+        Visual display of current reviews (number + rating stars)
+
+        “Boost my reviews” button with modal popup
+
+        Two options inside modal:
+
+            Buy review packs (3 / 5 / 10 reviews) with a cool visual price card
+
+            Earn reviews by completing micro-tasks (populated later)
+
+        Confirmation and progress bar when applying boost
+
+        A card showing boosted profile stats after applying
+
+        Cyberpunk animated effects like glowing frames, flickering neon buttons
+
+        Mobile-first responsive
+
+    Keep the vibe futuristic and playful, but clean.
+
+✅ 2. رزومه‌ساز حرفه‌ای 📄
+
+Prompt:
+
+    Create a "Pro Resume Builder" page for LazyLancer with a stylish cyberpunk UI. This tool helps freelancers generate sleek CVs based on their profile and project history.
+
+    Sections required:
+
+        Basic Info form (Name, Skills, Tagline, About Me)
+
+        Past Projects auto-pulled from their LazyLancer dashboard
+
+        Option to add custom projects manually
+
+        Design picker: choose from 3 CV styles (Neo-Minimal, Glitched Grid, Tech Noir)
+
+        "Generate PDF" button with animated generation effect
+
+        Download & Preview buttons
+
+        Save resume as draft
+
+    UI style: sleek black background, neon blue and pink accents, animated particles, smooth transitions. Prioritize clarity and minimalism despite the cyberpunk theme. Mobile-friendly!
+
+✅ 3. بخش پرداخت و اشتراک‌ها 💳
+
+Prompt:
+
+    Build the "Payments & Subscriptions" section for LazyLancer with a slick cyberpunk vibe.
+
+    Key modules:
+
+        Overview tab showing current balance, active subscription (if any), and payment history
+
+        Subscription plans section with animated cards (Free / Plus / Pro)
+
+            Each plan card includes price, perks (like higher visibility, access to premium freelancers, lower platform fee)
+
+        Payment method management (credit card, crypto wallet, local gateway for Iran)
+
+        Modal for entering promo codes with success/fail animation
+
+        Cyberpunk-styled chart for visualizing past spending or subscription activity
+
+    Keep UI futuristic but user-friendly. Mobile-first layout. Include glowing effects for active plans and toggle animation when switching subscriptions.
+
